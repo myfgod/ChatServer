@@ -5,4 +5,4 @@ cd build
 rm -rf *
 cmake ..
 make
-#运行需要配置nginx tcp的负载均衡
+#运行需要配置nginx tcp的负载均衡，以及mysql。
